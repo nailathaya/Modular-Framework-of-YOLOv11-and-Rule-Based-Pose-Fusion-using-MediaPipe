@@ -89,7 +89,6 @@ The fusion module performs:
 │   ├── fusion_results/
 │   └── visualization/
 ├── README.md
-└── requirements.txt
 ```
 
 ---
@@ -169,12 +168,6 @@ The pipeline automatically saves visualization results including:
 - Pose keypoints
 - Arm skeleton
 
-Example output directory:
-
-```
-outputs/fusion_results/
-```
-
 ---
 
 ## Evaluation Metrics
@@ -214,23 +207,11 @@ The proposed fusion significantly improves recall while maintaining comparable m
 
 **Title**
 
-> *Peningkatan Deteksi Orang Bersenjata Menggunakan YOLOv11 dan Fusi Pose Berbasis Aturan dalam Kerangka Modular* :contentReference[oaicite:0]{index=0}
+> *Peningkatan Deteksi Orang Bersenjata Menggunakan YOLOv11 dan Fusi Pose Berbasis Aturan dalam Kerangka Modular*
 
 English title:
 
-> *Enhancing Armed Person Detection Using YOLOv11 and Rule-Based Pose Fusion in a Modular Framework* :contentReference[oaicite:1]{index=1}
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-```
-Naila Athaya Mumtaz.
-Enhancing Armed Person Detection Using YOLOv11 and Rule-Based Pose Fusion in a Modular Framework.
-Bachelor Thesis, Telkom University, 2026.
-```
+> *Enhancing Armed Person Detection Using YOLOv11 and Rule-Based Pose Fusion in a Modular Framework*
 
 ---
 
@@ -238,11 +219,27 @@ Bachelor Thesis, Telkom University, 2026.
 
 **Naila Athaya Mumtaz**
 
-Bachelor of Informatics
+School of Computing
 
 Telkom University
 
 Bandung, Indonesia
+
+## Co-Author
+**Bedy Purnama** <sup>1,</sup><sup>2</sup>
+
+<sup>1</sup>School of Computing
+
+Telkom University
+
+Bandung, Indonesia
+
+<sup>2</sup>Center of Excellence of Artificial Intelligence for Learning and Optimization
+
+Telkom University
+
+Bandung, Indonesia
+
 
 ---
 
