@@ -77,22 +77,6 @@ The fusion module performs:
 
 ---
 
-## Project Structure
-
-```
-.
-├── Final_Project_Code.ipynb
-├── dataset/
-├── weights/
-├── outputs/
-│   ├── yolo_results/
-│   ├── fusion_results/
-│   └── visualization/
-├── README.md
-```
-
----
-
 ## Dataset
 
 The project uses a custom armed-person dataset containing two classes:
